@@ -1,0 +1,9 @@
+<div>
+<h2 style="text-align: center;">Wines</h2>
+
+<p id="Courses">
+White <pre class="tab">490 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+Red	<pre class="tab">890 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+Rosé <pre class="tab">1290 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+</p>
+</div>

@@ -1,0 +1,9 @@
+<div>
+<h2 style="text-align: center;">Main Courses</h2>
+
+<p id="Courses">
+Fried chicken breast with French Fries	<pre class="tab">2990 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+Chicken&Rice <pre class="tab">1990 Ft <img src="img/cart.png" alt="cart" class="pic"></pre> <br>
+Chicken Breast from Lyon <pre class="tab">2490 Ft <img src="img/cart.png" alt="cart" class="pic"></pre> <br>
+</p>
+</div>

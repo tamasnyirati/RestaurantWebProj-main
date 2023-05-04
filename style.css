@@ -1,0 +1,64 @@
+body {
+    background-image: url('img/backg.png');
+    background-color: coral;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60.5%;
+    height: 200px;
+}
+
+.menu {
+    position: fixed;
+    top: 220px;
+    left: 480px;
+    background-color: coral;
+    width: 50%;
+    text-align: center;
+    z-index: 1;
+}
+
+#detailed-menu {
+    position: fixed;
+    top: 260px;
+    left: 700px;
+    border-style: solid;
+    border-color: coral;
+    background-color: chocolate;
+    opacity: 75%;
+    width: 500px;
+
+    margin: auto;
+    padding: 10px;
+
+}
+
+.bottom-header {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: cornflowerblue;
+    z-index: 1;
+    text-align: center;
+}
+
+#Courses {
+    text-align: left;
+}
+
+.tab {
+    text-align: right;
+}
+
+.pic {
+    height: auto;
+    max-width: 4%;
+    float: right;
+}

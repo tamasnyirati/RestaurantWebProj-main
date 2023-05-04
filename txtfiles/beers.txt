@@ -1,0 +1,9 @@
+<div>
+<h2 style="text-align: center;">Beers</h2>
+
+<p id="Courses">
+Kőbányai	<pre class="tab">690 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+Dreher			<pre class="tab">790 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+Krusovice		<pre class="tab">990 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+</p>
+</div>

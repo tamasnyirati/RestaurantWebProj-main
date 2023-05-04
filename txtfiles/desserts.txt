@@ -1,0 +1,9 @@
+<div>
+<h2 style="text-align: center;">Desserts</h2>
+
+<p id="Courses">
+Cheese Cake	<pre class="tab">1790 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+Chocolate Cake	<pre class="tab">990 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+Strawberry Ice Cream <pre class="tab">2490 Ft <img src="img/cart.png" alt="cart" class="pic"></pre></pre> <br>
+</p>
+</div>

@@ -1,0 +1,9 @@
+<div>
+<h2 style="text-align: center;">Appetizers</h2>
+
+<p id=Courses>
+<p class="item-name">Chicken Soup</p> <pre class="tab">2990 Ft <img src="img/cart.png" alt="cart" class="pic" ></pre> <br>
+<p class="item-name">Goulash Soup</p> <pre class="tab">1990 Ft <img src="img/cart.png" alt="cart" class="pic"></pre> <br>
+<p class="item-name">Fisherman's soup</p> <pre class="tab">2490 Ft <img src="img/cart.png" alt="cart" class="pic"></pre> <br>
+</p>
+</div>
